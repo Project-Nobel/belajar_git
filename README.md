@@ -1,2 +1,5 @@
 # belajar_git
-belajar git 
+
+belajar git
+
+tes add
